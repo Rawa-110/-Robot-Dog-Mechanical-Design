@@ -1,4 +1,4 @@
-# -Robot-Dog-Mechanical-Design
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5e42c4e-4a7b-4118-8d6e-cc47791db993" /># -Robot-Dog-Mechanical-Design
 
 # 🐶 Robot Dog 3D
 
@@ -17,7 +17,8 @@ The page includes:
 - Download buttons for OBJ and STL files.
 
 ## 🖼️ Preview
-![Robot Dog Interface](images/robot-dog-preview.png)
+![Uploading image.png…]()
+
 
 ## 🚀 How to Run
 1. Start a local web server.
