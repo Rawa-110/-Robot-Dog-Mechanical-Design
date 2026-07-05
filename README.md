@@ -23,15 +23,12 @@ http://localhost:8080/robot-dog-3d.html
 
 ## 📂 Project Files
 
-| File/Folder | Description |
-|-------------|-------------|
-| **robot-dog-3d.html** | Main webpage that displays the interactive 3D robot dog model. |
-| **style.css** | Defines the webpage layout, colors, buttons, and visual styling. |
-| **script.js** | Handles model loading, camera movement, user interaction, and walking animation. |
-| **models/** | Contains the exported 3D model files (OBJ and STL). |
-| **images/** | Stores screenshots and images used in the documentation. |
-| **README.md** | Project documentation, usage instructions, and project overview. |
-
+| File | Description |
+|------|-------------|
+| **index.html** | The main project file that contains the HTML structure, embedded CSS styling, and JavaScript code. It displays the interactive 3D robot dog model, provides camera controls, walking animation, and download buttons for OBJ and STL files. |
+| **models/** | Contains the 3D model files (OBJ and STL) used in the web application. |
+| **images/** | Stores screenshots and images used in the project documentation and README. |
+| **README.md** | Contains the project overview, setup instructions, and documentation. |
 ---
 
 ## 🖼️ Preview
@@ -56,13 +53,11 @@ http://localhost:8080/robot-dog-3d.html
 
 ## 🛠️ Technologies
 
-- **HTML** – Structure of the web page.
-- **CSS** – Styling and responsive interface.
-- **JavaScript** – Interactive functionality and animations.
-- **Three.js** – Rendering and displaying the 3D model in the browser.
-- **MeshMagic 3D** – Creating and exporting the 3D model in OBJ and STL formats.
-
----
+- **HTML** – Used to build the webpage structure.
+- **Embedded CSS** – Used inside `index.html` to design the interface.
+- **Embedded JavaScript** – Used inside `index.html` to provide interactive features and animations.
+- **Three.js** – Used to render and display the 3D robot dog model.
+- **MeshMagic 3D** – Used to create and export the 3D model in OBJ and STL formats.
 
 ## 📷 Project Images
 
