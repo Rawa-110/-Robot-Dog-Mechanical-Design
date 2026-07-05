@@ -17,7 +17,8 @@ The page includes:
 - Download buttons for OBJ and STL files.
 
 ## 🖼️ Preview
-![Uploading image.png…]()
+
+<img width="973" height="681" alt="image" src="https://github.com/user-attachments/assets/7f9ec2c3-37a3-477f-bacc-b01816d97e61" />
 
 
 ## 🚀 How to Run
