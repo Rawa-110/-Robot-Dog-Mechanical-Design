@@ -37,7 +37,8 @@ http://localhost:8080/robot-dog-3d.html
 
 The following screenshot shows the web interface displaying the interactive 3D robot dog model.
 
-IMG_7793
+<img width="865" height="487" alt="image" src="https://github.com/user-attachments/assets/8e5fe7cf-662b-4b03-87dd-73bb2a3b99e0" />
+
 
 ## 🚀 How to Run
 
